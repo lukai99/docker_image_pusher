@@ -1,4 +1,3 @@
-nginx
-dbafromthecold/sqlserver2014express
+dbafromthecold/sqlserver2014express:rtm
 #支持指定架构
 ##--platform=linux/arm64 xiaoyaliu/alist
