@@ -1,3 +1,4 @@
+nginx
 #支持私库
 bitnami/clickhouse:23.2.4
 
